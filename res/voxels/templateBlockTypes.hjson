@@ -1,13 +1,7 @@
 {
     blocks: {
-        pepe_block: {
-            class: xyz.chunkstories.template.block.ExampleBlockType
-            opaque: true
-            texture: pepe_the_frog
-        }
-
-        teapot: {
-        	model: blocks/models/teapot.dae
+        deccer: {
+        	model: voxels/blockmodels/SM_Deccer_Cubes_Textured.obj
         	opaque: false
         }
     }
